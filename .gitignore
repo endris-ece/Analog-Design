@@ -1,0 +1,12 @@
+# LTspice generated files
+*.raw
+*.log
+*.net
+*.op.raw
+*.bak
+
+# Temporary and system files
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
