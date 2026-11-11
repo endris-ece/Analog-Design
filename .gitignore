@@ -2,11 +2,13 @@
 *.raw
 *.log
 *.net
-*.op.raw
 *.bak
+*.fft
 
-# Temporary and system files
+# Temporary files
 *.tmp
 *.temp
+
+# Operating system files
 .DS_Store
 Thumbs.db
